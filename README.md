@@ -1,4 +1,4 @@
-C.A.L.M (Conversational AI with Language Models)
+##C.A.L.M (Conversational AI with Language Models)
 
 Project Overview
 
