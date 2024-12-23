@@ -1,3 +1,2 @@
-.env
 newenv
-.env
+!.env
