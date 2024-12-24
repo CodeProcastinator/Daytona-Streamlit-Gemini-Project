@@ -62,8 +62,7 @@ Before running the application, ensure you have the following installed:
    streamlit run app.py
    ```
 2. Interact with the chatbot by entering your questions or concerns in the input field.
-3. View responses in real-time and browse the chat history in the sidebar.
-4. Continue the conversation seamlessly as the chatbot provides supportive and empathetic responses.
+3. Continue the conversation seamlessly as the chatbot provides supportive and empathetic responses.
 
 ---
 
