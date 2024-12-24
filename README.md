@@ -27,13 +27,17 @@ Before running the application, ensure you have the following installed:
 
 ---
 
-### Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/CodeProcastinator/Daytona-Streamlit-Gemini-Project/tree/main
-   cd Daytona-Streamlit-Gemini-Project
-   ```
+
+### **Open Using Daytona**
+#### 1. Install Daytona
+Follow the [Daytona installation guide](https://github.com/daytonaio/daytona#installation) to set up Daytona on your system.
+
+#### 2. Create the Workspace
+Run the following command to create your workspace:
+```bash
+daytona create https://github.com/CodeProcastinator/sample-python-calm-app
+
 
 2. **Install Dependencies**:
    ```bash
