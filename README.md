@@ -12,7 +12,6 @@ C.A.L.M is designed to assist students by providing mental health and emotional 
 - **Conversational Support**: Provides mental health and emotional support tailored to student needs.
 - **Real-Time AI Responses**: Utilizes the Gemini language model for accurate and context-aware answers.
 - **Session-Based Chat History**: Retains chat history for a seamless user experience.
-- **Intuitive Sidebar Navigation**: Displays chat history for quick reference.
 - **Streamlit Framework**: Ensures a user-friendly and visually appealing interface.
 - **Daytona Integration**: Leverages the Daytona framework for efficient model deployment and optimized performance.
 
